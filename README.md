@@ -46,7 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/Reebak04/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118364993/1199bb88-8ed8-46b5-beb9-6f6d6f8205e8)
+
+![image](https://github.com/Pranav-AJ/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118904526/525c4cbc-ba8c-4769-93e4-3af9cd5b4b9a)
+
 
 ### Name: YUVARAJ V
 ### Register Number: 2212223230252
